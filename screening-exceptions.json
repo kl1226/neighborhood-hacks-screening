@@ -1,0 +1,37 @@
+[
+  {
+    "project": "SIGNALGAP",
+    "participant": "Etisha Purswani",
+    "recordedDate": "2026-10-25",
+    "decision": "approved-format-exception",
+    "submissionChannel": "Email",
+    "emailReceivedDate": "2026-10-23",
+    "liveApplication": "https://signal-gap-guard.base44.app",
+    "approvedAlternative": "Accept the live Base44 application, any source code the participant can export, and supporting documentation or judge guidelines. A missing standard public repository must not automatically fail this project under the organizer-approved exception.",
+    "remainingConditions": [
+      "Explain which parts were developed during the hackathon.",
+      "Make the application accessible for judges to try."
+    ],
+    "supportingDocuments": [
+      {
+        "name": "Quick Judge app guide.docx",
+        "status": "Attachment presence confirmed in Outlook; document contents not inspected in this update."
+      },
+      {
+        "name": "SIGNALAPP project overveiw.docx",
+        "status": "Attachment presence confirmed in Outlook; document contents not inspected in this update."
+      }
+    ],
+    "developmentTestingRecord": "Participant says no separate Development and Testing Record was supplied because the live prototype is available for judges. Do not add a new standalone-document failure beyond the organizer's accepted alternative format.",
+    "devpostSearch": "No matching submitted or draft entry found for SIGNALGAP or Etisha. The project is absent from the reconciled 161-project audit, so no unrelated Devpost visibility was changed.",
+    "judgeAccess": {
+      "status": "needs-review",
+      "observedUrl": "https://signal-gap-guard.base44.app/login",
+      "evidence": "Opening the supplied app URL in Chrome redirects to a login page. Google sign-in and email/password are offered. No credentials were entered or account created.",
+      "effect": "Keep the approved format exception; refer judge access to organizer rather than imposing a repository-based failure."
+    },
+    "authorizationEvidence": "User explicitly requested applying this person's exception on October 25 and supplied the email screenshot, including the organizer's October 22 approval.",
+    "emailSubject": "Re: Neighborhood Hacks Sponsor Resources Info",
+    "scope": "Applies only to SIGNALGAP; does not change the other 161 projects or their visibility totals."
+  }
+]

@@ -1,0 +1,851 @@
+[
+  {
+    "id": "1259009",
+    "name": "CareGuard AI",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1259009-careguard-ai",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository supplied; linked app also has no source link."
+    ],
+    "finalVisibility": "Hidden",
+    "repo": null,
+    "video": "https://player.vimeo.com/video/1239015229",
+    "duration": null,
+    "evidence": "Only linked project destination is live CareGuard app, which has no source-code link. Vimeo restriction was not rejection basis.",
+    "videoStatus": "privacy restricted embed",
+    "repoStatus": "not supplied",
+    "checkedAt": "2026-10-25",
+    "policy": "Completeness only; videos under2 accepted per organizer; six-minute maximum retained.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1258870",
+    "name": "NoticeNest",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258870-noticenest",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository supplied."
+    ],
+    "finalVisibility": "Hidden",
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=fVT5ta0KEPE",
+    "duration": "1:10",
+    "evidence": "Submission has no repository and demo page has no description. Short runtime accepted.",
+    "videoStatus": "accessible",
+    "repoStatus": "not supplied",
+    "checkedAt": "2026-10-25",
+    "policy": "Completeness only; videos under2 accepted per organizer; six-minute maximum retained.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1258987",
+    "name": "zakkerha",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258987-zakkerha",
+    "decision": "fail",
+    "reasons": [
+      "Inspiration-only description; no implementation explanation, challenges or next steps. Linked README only one sentence."
+    ],
+    "finalVisibility": "Hidden",
+    "repo": "https://github.com/ferokids09-coder/zakkerha",
+    "video": "https://www.youtube.com/watch?v=2TXw_OW0OE8",
+    "duration": null,
+    "evidence": "Submission only one inspiration paragraph; custom answer repeats student resource problem. README has one summary sentence; no implementation account, challenges or future work.",
+    "repoStatus": "public-code",
+    "videoStatus": "submitted",
+    "checkedAt": "2026-10-25",
+    "policy": "Completeness only; videos under2 accepted per organizer; six-minute maximum retained.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1249094",
+    "name": "LunchLine",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1249094-lunchline",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository supplied; linked live app also has no source link."
+    ],
+    "finalVisibility": "Hidden",
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=-HaivK1jR3I",
+    "duration": "3:16",
+    "evidence": "No public source link in submission, live landing page or video description.",
+    "videoStatus": "accessible",
+    "repoStatus": "not supplied",
+    "checkedAt": "2026-10-25",
+    "policy": "Completeness only; videos under2 accepted per organizer; six-minute maximum retained.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1258464",
+    "name": "NotchCount",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258464-notchcount",
+    "decision": "fail",
+    "reasons": [
+      "Demo video is 8:00, exceeding published 6-minute maximum."
+    ],
+    "finalVisibility": "Hidden",
+    "repo": "https://github.com/rahulgunwanistudy-2005/NotchCount",
+    "video": "https://www.youtube.com/watch?v=soEDQBHR8lI",
+    "duration": "8:00",
+    "evidence": "Full written description and public code are supplied; no alternative shorter demo link in submission.",
+    "repoStatus": "public-code",
+    "videoStatus": "accessible",
+    "checkedAt": "2026-10-25",
+    "policy": "Completeness only; videos under2 accepted per organizer; six-minute maximum retained.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1258554",
+    "name": "ShowUp HTX",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258554-showup-htx",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in submission, linked live app or about page. Demo is explicitly removed by uploader on YouTube."
+    ],
+    "finalVisibility": "Hidden",
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=k22GTm3RS54",
+    "duration": null,
+    "evidence": "No repository link in submitted materials or live/about page; YouTube explicitly says removed by uploader.",
+    "repoStatus": "not supplied",
+    "videoStatus": "removed by uploader",
+    "checkedAt": "2026-10-25",
+    "policy": "Completeness only; videos under2 accepted per organizer; six-minute maximum retained.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1258503",
+    "name": "MediBridge",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258503-medibridge",
+    "decision": "fail",
+    "reasons": [
+      "Demo video is 7:27, exceeding published 6-minute maximum."
+    ],
+    "finalVisibility": "Hidden",
+    "repo": "https://github.com/kunal-motwani/MediBridge-Final",
+    "video": "https://www.youtube.com/embed/Lw5ipEtqDMU?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "duration": "7:27",
+    "evidence": "Full description, public source and working app demo; midpoint shows MediBridge treatment and record workflows. Demo exceeds published 6-minute maximum.",
+    "repoStatus": "public-code",
+    "videoStatus": "accessible",
+    "checkedAt": "2026-10-25",
+    "policy": "Completeness only; videos under2 accepted per organizer; six-minute maximum retained.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1248688",
+    "name": "TrayTrace",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1248688-traytrace",
+    "decision": "fail",
+    "reasons": [
+      "Submitted public repository is empty; no code available for judges. Narrative also lacks challenges and next steps."
+    ],
+    "finalVisibility": "Hidden",
+    "repo": "https://github.com/HashB786/TrayTrace",
+    "video": "https://www.youtube.com/watch?v=fVbYj2F5IkY",
+    "duration": null,
+    "evidence": "GitHub visibly states This repository is empty. Narrative also lacks challenges and future work.",
+    "repoStatus": "empty",
+    "videoStatus": "submitted; not needed for independent repository failure",
+    "checkedAt": "2026-10-25",
+    "policy": "Completeness only; videos under2 accepted per organizer; six-minute maximum retained.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1258783",
+    "name": "MinnaNavi and Bosai-Toilet / みんなのナビと防災トイレ",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258783-minnanavi-and-bosai-toilet",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in submission or video description; linked deployment is not found."
+    ],
+    "finalVisibility": "Hidden",
+    "repo": null,
+    "video": "https://www.youtube.com/embed/UMu3hvf0eZc?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "duration": "2:36",
+    "evidence": " it's real?: Standard mapping apps lack accessibility details like adult changing beds and ignore station gate status during Tokyo post-earthquake lockouts. By searching on the internet, I confirmed that standard apps lack search filters for these facilities.\n\n",
+    "checkedAt": "2026-10-25",
+    "policy": "Completeness only; videos under2 accepted per organizer; six-minute maximum retained.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1257307",
+    "name": "AutoBuddy",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1257307-autobuddy",
+    "decision": "fail",
+    "reasons": [
+      "Demo video is 8:11, exceeding published 6-minute maximum."
+    ],
+    "finalVisibility": "Hidden",
+    "repo": "https://github.com/Vedant-swami25/AutoBuddy",
+    "video": "https://www.youtube.com/watch?v=9IqvldRSY70",
+    "duration": "8:11",
+    "evidence": " it's real?: Vehicle breakdowns leave drivers struggling to find reliable mechanics quickly. AutoBuddy solves this by offering nearby verified garages, transparent pricing, instant booking, and real-time tracking.\n\n",
+    "repoStatus": "public code present",
+    "videoStatus": "accessible",
+    "supportingEvidence": [
+      "At 4:05 demo visibly shows garage booking status, live-tracking map, assigned service partner, estimated arrival and route distance."
+    ],
+    "reviewFlags": [
+      "Demo length 8:11 exceeds published 6-minute maximum; manual review recommended."
+    ],
+    "checkedAt": "2026-10-25",
+    "policy": "Completeness only; videos under2 accepted per organizer; six-minute maximum retained.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1258934",
+    "name": "ShadeSignal",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258934-shadesignal",
+    "originalVisibility": "Gallery",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in project submission."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=gnWQPkuRX98",
+    "duration": null,
+    "evidence": "Project text, links, custom response, and supplied attachments reviewed; required public repository link absent.",
+    "repoEvidence": null,
+    "attachments": [],
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1243268",
+    "name": "Anchor",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1243268-anchor",
+    "originalVisibility": "Gallery",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in submission; only GitHub Pages app URL."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=_1ESxkaVCgk",
+    "duration": null,
+    "evidence": "Project text, links, custom response, and supplied attachments reviewed; required public repository link absent.",
+    "repoEvidence": null,
+    "attachments": [],
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1258605",
+    "name": "Echo Trace",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258605-echo-trace",
+    "originalVisibility": "Gallery",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in project submission."
+    ],
+    "repo": null,
+    "video": "https://player.vimeo.com/video/1239009114",
+    "duration": null,
+    "evidence": "Source ZIP attachment exists, but no public repository link in description or Try it out; Vimeo embed privacy-blocked.",
+    "repoEvidence": null,
+    "attachments": [
+      {
+        "name": "EchoTrace-source-20261024.zip",
+        "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258605-echo-trace/file_downloads/139078"
+      }
+    ],
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1258811",
+    "name": "Secyra AI",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258811-secyra-ai",
+    "originalVisibility": "Gallery",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in submission."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=I3EIhRbl3cc",
+    "duration": null,
+    "evidence": "Attached six-page project dossier inspected in Chrome PDF viewer; it describes architecture and roadmap but provides no public code repository link.",
+    "repoEvidence": null,
+    "attachments": [
+      {
+        "name": "Secyra_AI_Judges_Submission_Final-1.pdf",
+        "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258811-secyra-ai/file_downloads/139076"
+      }
+    ],
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1255285",
+    "name": "BlockBudget",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1255285-blockbudget",
+    "originalVisibility": "Gallery",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in submission."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=NYD6RFFSlB8",
+    "duration": null,
+    "evidence": "Project text, links, custom response, and supplied attachments reviewed; required public repository link absent.",
+    "repoEvidence": null,
+    "attachments": [],
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1255153",
+    "name": "HazardHub",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1255153-hazardhub",
+    "originalVisibility": "Gallery",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in project submission."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=EuQmo_PJW6c",
+    "duration": null,
+    "evidence": "Project text, links, custom response, and supplied attachments reviewed; required public repository link absent.",
+    "repoEvidence": null,
+    "attachments": [],
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1258446",
+    "name": "Sunstruck 103º",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258446-sunstruck-103",
+    "originalVisibility": "Gallery",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in submission; only GitHub Pages app URL."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/embed/JII_JgninEU?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "duration": null,
+    "evidence": "Project text, links, custom response, and supplied attachments reviewed; required public repository link absent.",
+    "repoEvidence": null,
+    "attachments": [],
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1258824",
+    "name": "LineLight",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258824-linelight",
+    "originalVisibility": "Gallery",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link supplied in submission."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/embed/HZiMHn-4qbM?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "duration": null,
+    "evidence": "Project text, links, custom response, and supplied attachments reviewed; required public repository link absent.",
+    "repoEvidence": null,
+    "attachments": [],
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1258699",
+    "name": "SkillBridge",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258699-skillbridge",
+    "originalVisibility": "Gallery",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in submission or attached 39-page planning document; only hosted app URL."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/embed/U3eeHrMMDTU?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "duration": null,
+    "evidence": "Full narrative and planning PDF inspected, including text and hyperlink annotations; repository setup is mentioned but no repository URL is provided.",
+    "repoEvidence": null,
+    "attachments": [
+      {
+        "name": "Planning_Document_-_Hackathon_(1).pdf",
+        "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258699-skillbridge/file_downloads/139068"
+      }
+    ],
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1241360",
+    "name": "Defeat Procrastination",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1241360-defeat-procrastination",
+    "originalVisibility": "Gallery",
+    "decision": "fail",
+    "reasons": [
+      "Only submitted demo video is 10:25, exceeding the six-minute maximum."
+    ],
+    "repo": "https://github.com/YogitB/Defeat-Procrastination",
+    "video": "https://www.youtube.com/watch?v=msmb-j1q2Do",
+    "duration": "10:25",
+    "evidence": "Project text, links, custom response, and supplied attachments reviewed; required public repository link absent.",
+    "repoEvidence": {
+      "public": true,
+      "files": [
+        "README.md",
+        "index.html"
+      ],
+      "title": "YogitB/Defeat-Procrastination"
+    },
+    "attachments": [],
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1258570",
+    "name": "pune setu",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258570-pune-setu",
+    "decision": "fail",
+    "reasons": [
+      "Submitted demo runtime is 10:06, substantially above the published 6-minute maximum."
+    ],
+    "finalVisibility": "Hidden",
+    "repo": "https://github.com/vedpensalwar?tab=overview&from=2026-10-01&to=2026-10-24",
+    "video": "https://www.youtube.com/watch?v=hRExRWegBDo",
+    "duration": "10:06",
+    "evidence": "YouTube player displays 10:06; sampled civic report workflow. Visibility reopened with Hidden checked after update.",
+    "descriptionEvidence": "Detailed civic report platform description, visible-neighborhood problem answer and technologies/challenges/next steps.",
+    "problemEvidence": "Pune residents face everyday issues like potholes, overflowing garbage, broken streetlights, and drainage problems. These visible neighbourhood issues highlight the need for easier complaint reporting, transparent tracking, and better civic communication.",
+    "repoEvidence": "Submitted profile shows matching public pune-setu- repository.",
+    "screeningNotes": "Completeness screening only; short demos accepted per organizer instruction. Demo playback was sampled, not watched in full.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1255830",
+    "name": "BorrowBlock",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1255830-borrowblock",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in narrative or Try it out."
+    ],
+    "finalVisibility": "Hidden",
+    "repo": null,
+    "video": "https://player.vimeo.com/video/1238959880?byline=0&portrait=0&title=0#t=",
+    "duration": null,
+    "evidence": "Narrative provides illustrative sample borrowing scenario, not direct validation. Vimeo embed says privacy settings prevent playback.",
+    "descriptionEvidence": "Complete prototype narrative but no required public repository.",
+    "problemEvidence": "A student might need a scientific calculator for one exam, a geometry set for one lesson, or art supplies for one project. Meanwhile, another student may have exactly that item sitting unused.",
+    "repoEvidence": "No code repository link in narrative or Try it out.",
+    "screeningNotes": "Clear missing-repository failure; further demo review not needed for screening decision.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1252081",
+    "name": "Spendsense",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1252081-spendsense",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in narrative or Try it out."
+    ],
+    "finalVisibility": "Hidden",
+    "repo": null,
+    "video": "https://www.youtube.com/embed/_XUUrll0GLk?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "duration": null,
+    "evidence": "Saved visibility reopened with Hidden checked.",
+    "descriptionEvidence": "Full finance app narrative but no public repository link.",
+    "problemEvidence": "Problem: People must choose between data-leaking cloud apps or tedious spreadsheets. Proof: 80%+ mistrust cloud finance, 65% quit spreadsheets, and local-first software adoption proves massive demand for private tools.",
+    "repoEvidence": "No code repository link in narrative or Try it out.",
+    "screeningNotes": "Clear missing-repository failure; further demo review not needed for screening decision.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1258294",
+    "name": "MOHALLA RESCUE AI",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1258294-mohalla-rescue-ai",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in narrative or Try it out."
+    ],
+    "finalVisibility": "Hidden",
+    "repo": null,
+    "video": "https://www.youtube.com/embed/OIpmPOCIMeg?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "duration": null,
+    "evidence": "Saved visibility reopened with Hidden checked.",
+    "descriptionEvidence": "Core narrative present with many empty headings; no public repository despite attached ZIP.",
+    "problemEvidence": "Neighborhood issues like garbage, blocked drains, potholes, and broken streetlights affect daily life. These are visible urban challenges in Karachi, highlighted in our documentary. Formal resident surveys are still needed to measure their scale.",
+    "repoEvidence": "No code repository link in narrative or Try it out.",
+    "screeningNotes": "Clear missing-repository failure; further demo review not needed for screening decision.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1254060",
+    "name": "NomadPage",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1254060-nomadpage",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link is included in the description or Try it out; only a deployed site is linked."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=vFnnl1Jr9VM",
+    "duration": null,
+    "evidence": "Submission contains detailed narrative and survey evidence but links only to nomad-page.vercel.app; no source repository URL.",
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1256989",
+    "name": "UNROT",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1256989-unrot",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in description or Try it out; only Netlify deployment is linked."
+    ],
+    "repo": null,
+    "video": "https://player.vimeo.com/video/1238834232",
+    "duration": null,
+    "evidence": "Coherent description and firsthand problem evidence; no source repository link supplied.",
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1255957",
+    "name": "Shubham",
+    "originalVisibility": "Hidden",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1255957-shubham",
+    "decision": "fail-preexisting-hidden",
+    "reasons": [
+      "No source repository link, invalid-looking video ID, and skeletal incomplete description."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/embed/shubhampoddar",
+    "duration": null,
+    "evidence": "Existing Hidden status preserved.",
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1240994",
+    "name": "PillPulse",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1240994-pillpulse",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in submission or supplied live site; GitHub Pages deployment link is not a repository link."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/embed/AIDDforTmys?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "duration": null,
+    "evidence": "Description, supplied links, and linked live-site navigation checked; no source repository link is provided.",
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1254137",
+    "name": "AccessMap: The Missing Layer",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1254137-accessmap-the-missing-layer",
+    "decision": "fail",
+    "reasons": [
+      "Submitted GitHub repository is empty; no source code is available for judges to inspect."
+    ],
+    "repo": "https://github.com/ffmikasa2816-lgtm/accessmap.git",
+    "video": "https://player.vimeo.com/video/1238658734?byline=0&portrait=0&title=0#t=",
+    "duration": null,
+    "evidence": "GitHub visibly states “This repository is empty.” Vimeo direct player also reports privacy restriction; that access issue is not used as the failure reason.",
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1254896",
+    "name": "Pathwise",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1254896-pathwise",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in submission or supplied live site; only Vercel deployment is linked."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/embed/o0ai9ROK-Z8?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent",
+    "duration": null,
+    "evidence": "Description, supplied links, and linked live-site navigation checked; no source repository link is provided.",
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "finalVisibility": "Hidden",
+    "id": "1255068",
+    "name": "ClearBill - Hospital Bill Analyzer",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1255068-clearbill-hospital-bill-analyzer",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link submitted."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=Q6NW0OzF0lw",
+    "duration": null,
+    "evidence": "Coherent full narrative and personal problem answer. Only deployed app in Try it out; no repository in submission.",
+    "verification": "Reloaded manager row verified.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "finalVisibility": "Hidden",
+    "id": "1254666",
+    "name": "Forensic Atlas",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1254666-forensic-atlas",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link submitted."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=XyC38B_FutU",
+    "duration": null,
+    "evidence": "Coherent narrative and substantive problem answer. Only forensic-atlas.vercel.app in Try it out; no code repository link.",
+    "verification": "Reloaded manager row verified.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "finalVisibility": "Hidden",
+    "id": "1251785",
+    "name": "Ask Family",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1251785-ask-family",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link submitted."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=xLVufsPEAQA",
+    "duration": null,
+    "evidence": "Detailed problem evidence and full narrative, no repository or Try it out link.",
+    "verification": "Reloaded manager row verified.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "finalVisibility": "Hidden",
+    "id": "1240875",
+    "name": "routorrX",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1240875-routorrx",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link submitted."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=26E1NN0qo4Y",
+    "duration": null,
+    "evidence": "Long coherent narrative and local observations, no code repository or Try it out link.",
+    "verification": "Reloaded manager row verified.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "finalVisibility": "Hidden",
+    "id": "1253789",
+    "name": "SafarAI",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1253789-safarai",
+    "decision": "fail",
+    "reasons": [
+      "Demo exceeds 6-minute maximum."
+    ],
+    "repo": "https://github.com/vishalsingh7126/SafarAI-App",
+    "video": "https://www.youtube.com/watch?v=oA9c6_IYV3I",
+    "duration": "8:04",
+    "evidence": "Full narrative, generic problem evidence, repo supplied. Embedded demo confirms 8:04, above 6-minute maximum.",
+    "verification": "Reloaded manager row verified.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1246994",
+    "name": "Lost Context",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1246994-lost-context",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link submitted."
+    ],
+    "repo": null,
+    "video": "https://vimeo.com/1238377286",
+    "duration": null,
+    "evidence": "Full coherent narrative, generic substantive problem answer, demo supplied. Only live deployed app link, no public repository.",
+    "finalVisibility": "Hidden",
+    "verification": "Reloaded manager row verified.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1249673",
+    "name": "Alpha Weather Cast",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1249673-alpha-weather-cast",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link submitted."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=jFwVP4w5dtg",
+    "duration": null,
+    "evidence": "Coherent full description and substantive problem response, video provided. No public repository or Try it out links.",
+    "finalVisibility": "Hidden",
+    "verification": "Reloaded manager row verified.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1246269",
+    "name": "Tidewater",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1246269-tidewater",
+    "decision": "fail",
+    "reasons": [
+      "Demo is 6:44, above 6-minute maximum."
+    ],
+    "repo": "https://github.com/Aadit28/tidewater",
+    "video": "https://www.youtube.com/watch?v=xbPA_wow9LQ",
+    "duration": "6:44",
+    "evidence": "Full narrative and sourced problem evidence, public source repo. Video player confirms 6:44. Description explicitly says existing MIT codebase brought online; originality question separately flagged for organizer review.",
+    "finalVisibility": "Hidden",
+    "verification": "Reloaded manager row verified.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1252408",
+    "name": "Imvecto: Trust Infrastructure for Impact Funding",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1252408-imvecto-trust-infrastructure-for-impact-funding",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link submitted."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=5hayCeKu3xc",
+    "duration": null,
+    "evidence": "Full narrative and numeric problem evidence; embedded demo supplied. Only deployed imvecto.vercel.app link, no repository.",
+    "finalVisibility": "Hidden",
+    "verification": "Reloaded manager row verified.",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1249655",
+    "name": "FocusBloom",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1249655-focusbloom",
+    "decision": "fail",
+    "reasons": [
+      "Submitted video is Rick Astley music video rather than working project demo.",
+      "Repository link is only https://github.com, no project repository.",
+      "Written build description is cut off; challenges and next steps absent."
+    ],
+    "repo": "https://github.com",
+    "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "duration": null,
+    "evidence": "Visible embedded player identifies Rick Astley official music video; only generic GitHub home link; description ends “We started with the concept of less”.",
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1247607",
+    "name": "Coder",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1247607-coder",
+    "decision": "fail",
+    "reasons": [
+      "Required working demo absent: only submitted video is invalid placeholder YouTube id “a”."
+    ],
+    "repo": "https://github.com/RajanyaSaha-27/Coder",
+    "video": "https://www.youtube.com/embed/a",
+    "duration": null,
+    "evidence": "All submission links reviewed; only video embed uses one-character placeholder id a, no alternative demo. Full written narrative and repository link present.",
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1245510",
+    "name": "TuyiTek Reminders",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1245510-tuyitek-reminders",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in submission."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=MkE7zDnUvMg",
+    "duration": null,
+    "evidence": "Narrative, tools and problem evidence supplied, but sole external try-it-out link is tuyitek-reminders.zite.so. No public source repository link in narrative or supplied links.",
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1245473",
+    "name": "admitiy",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1245473-admitiy",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link in submission."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=fbfpAxKll9c",
+    "duration": null,
+    "evidence": "All narrative and external links reviewed. Only try-it-out URL is admitiy.com; no public code repository link. Coherent narrative and firsthand admissions problem are present.",
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1242447",
+    "name": "Bite flow",
+    "originalVisibility": "Gallery",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1242447-bite-flow",
+    "decision": "fail",
+    "reasons": [
+      "Submitted public repository contains README.md only, without application source code or alternative code link."
+    ],
+    "repo": "https://github.com/ddracomalfoyy77-boop/BITEFLOW",
+    "video": "https://www.youtube.com/watch?v=-3xg-ZX6r9w",
+    "duration": "2:46",
+    "evidence": "GitHub files table shows only README.md; README ends with install commands but no source attachment/repo link; no releases. Demo shows functioning emergency interface; full description present.",
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1241190",
+    "name": "A Better Neighbourhood",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1241190-a-better-neighbourhood",
+    "originalVisibility": "Gallery",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link supplied."
+    ],
+    "repo": null,
+    "video": "https://www.youtube.com/watch?v=GZQEOz8313s",
+    "duration": null,
+    "evidence": "Full narrative and custom answer checked. Only deployed abn-phi.vercel.app supplied; opened site and inspected navigation/footer, with no code link. Saved Hidden and reopened Visibility to verify checked state.",
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  },
+  {
+    "id": "1240962",
+    "name": "BioCyclic",
+    "url": "https://neighborhood-hacks-2026.devpost.com/submissions/1240962-biocyclic",
+    "originalVisibility": "Gallery",
+    "decision": "fail",
+    "reasons": [
+      "No public code repository link supplied."
+    ],
+    "repo": null,
+    "video": "https://youtu.be/bss7-mOpXxA",
+    "duration": "5:06",
+    "evidence": "Full narrative/custom answer and all links inspected; only YouTube supplied, with no source link in expanded video description. Video premiered May 1, 2026 (additional build-window concern). Saved Hidden and reopened Visibility to verify checked state.",
+    "finalVisibility": "Hidden",
+    "visibilityVerified": "Saved visibility independently reconciled against fresh management-table DOM."
+  }
+]
